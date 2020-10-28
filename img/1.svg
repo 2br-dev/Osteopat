@@ -1,0 +1,13 @@
+<svg width='80' height='40' viewBox='0 0 80 40' fill='none'  xmlns="http://www.w3.org/2000/svg">
+    <style>
+        #text{
+            stroke:black;
+            stroke-width: 2px;
+            fill: white;
+            font-size: 40px;
+            font-weight: bold;
+            font-family: 'Raleway'
+        }
+    </style>
+    <text x='20' y='40' id='text'>1</text>
+</svg>

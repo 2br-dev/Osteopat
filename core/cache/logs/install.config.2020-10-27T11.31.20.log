@@ -1,0 +1,1 @@
+[2020-10-27 11:31:20] (ERROR in xPDOConnection::connect @ C:\localserver\OpenServer\domains\osteopat.local\core\xpdo\xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
